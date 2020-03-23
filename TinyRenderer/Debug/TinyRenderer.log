@@ -1,17 +1,25 @@
 ﻿  main.cpp
-f:\projects\tinyrenderer\tinyrenderer\main.cpp(53): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\tgaimage.h(58): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(27): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(71): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
           with
           [
               t=int
           ]
-f:\projects\tinyrenderer\tinyrenderer\main.cpp(60): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
-f:\projects\tinyrenderer\tinyrenderer\main.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-f:\projects\tinyrenderer\tinyrenderer\geometry.h(18): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(78): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\main.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\projects\tinyrenderer\tinyrenderer\geometry.h(33): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
           with
           [
               t=int
           ]
-  f:\projects\tinyrenderer\tinyrenderer\geometry.h(18): note: while compiling class template member function 'Vec2<int> Vec2<int>::operator *(float) const'
-  f:\projects\tinyrenderer\tinyrenderer\main.cpp(81): note: see reference to function template instantiation 'Vec2<int> Vec2<int>::operator *(float) const' being compiled
-  f:\projects\tinyrenderer\tinyrenderer\main.cpp(49): note: see reference to class template instantiation 'Vec2<int>' being compiled
+  f:\projects\tinyrenderer\tinyrenderer\geometry.h(33): note: while compiling class template member function 'Vec3<int> Vec3<int>::operator *(float) const'
+  f:\projects\tinyrenderer\tinyrenderer\main.cpp(114): note: see reference to function template instantiation 'Vec3<int> Vec3<int>::operator *(float) const' being compiled
+  f:\projects\tinyrenderer\tinyrenderer\main.cpp(67): note: see reference to class template instantiation 'Vec3<int>' being compiled
   TinyRenderer.vcxproj -> F:\Projects\TinyRenderer\Debug\TinyRenderer.exe
