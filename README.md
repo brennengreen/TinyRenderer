@@ -4,4 +4,4 @@
 
 ## Example of Final Product:
 ----------------------------
-![alt text][output.tga "Example"]
+![Example](https://github.com/brennengreen/TinyRenderer/blob/master/Example.png)
